@@ -43,6 +43,7 @@ public class _20210120 {
                     num[1] = j;
                 }
             }
+
         }
         return num;
     }
